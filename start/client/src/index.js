@@ -30,6 +30,7 @@ const app = new Vue({
     }
 });
 
+
 const connect = () => {
 
     const signalR_URL = `${BACKEND_URL}/api`;
